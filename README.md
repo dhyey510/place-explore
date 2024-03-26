@@ -34,7 +34,7 @@ To run the application, follow these steps:
 ## Screenshots
 
 <div>
-    <ing src="screenshots/Home.png">
+    <img src="screenshots/Home.png">
     <img src="screenshots/placesFromuser.png">
     <img src="screenshots/AddPlace.png">
     <img src="screenshots/Authentication.png">
